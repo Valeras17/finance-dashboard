@@ -1,4 +1,5 @@
-[Finance Dashboard Full Stack (1).pdf](https://github.com/user-attachments/files/21569685/Finance.Dashboard.Full.Stack.1.pdf)
+<img width="1776" height="1304" alt="image" src="https://github.com/user-attachments/assets/e5510652-99cf-4db7-8f6d-be2d73a0a469" />
+
 Finance Dashboard - MERN Stack Project 🌟
 Overview 📊
 The Finance Dashboard is a robust, modern web application designed to empower users in managing their personal finances with precision. Crafted as a portfolio project for junior developers, it exemplifies a scalable architecture, clean code practices, and serves as an educational tool for mastering the MERN stack with Tailwind CSS styling.
@@ -60,7 +61,7 @@ Goal 🎯
 This project delivers a comprehensive visual and functional overview for README files or presentations, encapsulating the architecture, features, tech stack, and educational value in a single, polished layout.
 Getting Started 🚀
 
-Clone the Repository: git clone https://github.com/yourusername/finance-dashboard.git
+Clone the Repository: git https://github.com/Valeras17/finance-dashboard.git
 Install Dependencies:
 Client: cd client && npm install
 Server: cd server && npm install
