@@ -4,6 +4,7 @@ Finance Dashboard - MERN Stack Project 🌟
 Overview 📊
 The Finance Dashboard is a robust, modern web application designed to empower users in managing their personal finances with precision. Crafted as a portfolio project for junior developers, it exemplifies a scalable architecture, clean code practices, and serves as an educational tool for mastering the MERN stack with Tailwind CSS styling.
 Tech Stack 💻
+<img width="1726" height="1485" alt="image" src="https://github.com/user-attachments/assets/532f39b2-4245-440a-98c4-ecfbc2f3fd5d" />
 
 Frontend:
 React.js 🎨 (Built with Vite for fast development)
@@ -21,6 +22,7 @@ Hosting: Render.com ☁️ (Reliable cloud hosting platform)
 Design: Modular UI with dark/light theme toggle 🌙☀️, interactive charts 📈, and a clean, intuitive layout 🖥️
 
 Features ✨
+<img width="2098" height="1690" alt="image" src="https://github.com/user-attachments/assets/77eda5cc-423c-4e82-84d3-045fdfc2a43b" />
 
 Track Income and Expenses 💰: Categorize transactions (e.g., Food, Utilities, Salary) with detailed records.
 Interactive Dashboard 🕹️: Real-time balance cards showing total income, expenses, and savings.
@@ -28,6 +30,7 @@ Transaction Management 📝: Add, edit, or delete transactions with a user-frien
 Monthly Statistics 📊: Visualize trends with pie charts (category breakdown) and bar charts (monthly overview).
 Responsive Design 📱: Fully optimized for desktops, tablets, and mobile devices.
 Data Visualization 🔍: Powered by Recharts for interactive and customizable charts.
+<img width="1566" height="1042" alt="image" src="https://github.com/user-attachments/assets/c8126ce1-5acb-4010-bf2c-2689222bbb46" />
 
 Architecture 🏗️
 [Client Side] 🌐
@@ -44,6 +47,7 @@ Architecture 🏗️
 
 [Hosting] ☁️
   └── Render.com
+<img width="1933" height="1584" alt="image" src="https://github.com/user-attachments/assets/0338409b-f4d5-492c-b281-b1602939adab" />
 
 
 Modular UI: Reusable components (e.g., Card, Chart, Form) for scalability and maintainability.
@@ -60,6 +64,7 @@ Scalability: Designed with a modular structure to support future features like b
 Goal 🎯
 This project delivers a comprehensive visual and functional overview for README files or presentations, encapsulating the architecture, features, tech stack, and educational value in a single, polished layout.
 Getting Started 🚀
+<img width="1931" height="1568" alt="image" src="https://github.com/user-attachments/assets/d991aa60-2b7d-4a86-bc5a-38add65cdca6" />
 
 Clone the Repository: git https://github.com/Valeras17/finance-dashboard.git
 Install Dependencies:
